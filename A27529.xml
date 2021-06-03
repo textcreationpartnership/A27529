@@ -1,0 +1,2524 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Best &amp; plainest English spelling-book containing all the different words, syllables, &amp; letters in the old English character, of the three first usual school-books, (the Horn-Book, the A B C with the catechism, &amp; the Primer) &amp; more too.</title>
+         </titleStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27529</idno><idno type="EEBO-CITATION">11695709</idno>
+  <idno type="VID">48232</idno>
+  <idno type="EEBO-PROQUEST">2240859232</idno>
+  
+            <idno type="STC">Wing B2055A</idno>
+            <idno type="STC">ESTC R12778</idno>
+            <idno type="OCLC">11695709</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A27529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48232)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 14:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Best &amp; plainest English spelling-book containing all the different words, syllables, &amp; letters in the old English character, of the three first usual school-books, (the Horn-Book, the A B C with the catechism, &amp; the Primer) &amp; more too.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English language --  Orthography and spelling.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div n="1" type="introduction">
+            <pb n="1" facs="tcp:48232:1"/>
+            <pb n="1" facs="tcp:48232:1"/>
+            <head>The Best &amp; Plainest E<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Book </head>
+            <head type="sub">The First Part.</head>
+            <p>
+               <hi>Containing all the different Words, Syllables, &amp; Let<g ref="char:EOLhyphen"/>ters, in the old English Character, of the three first Usual School-Books, (the Horn-Book, the A B C with the Catechism, &amp; the Primer,) &amp; more too.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="spelling_book">
+            <div type="part">
+               <p>The small English <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or Letters.</p>
+               <p>✚ <hi>a b c d e f g h i j k l m n o p qu r r s s t u v w x y z. &amp; ct ff fl sh sl ss st &amp;c.</hi>
+               </p>
+               <p>Christ's Cross (commonly called the Criss-Cross,) being the very first thing taught Children, may shew them, that the Chief End of their Learning is to Know Jesus Christ, &amp; him Crucified.</p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>q</hi> is never written without a <hi>u</hi> / &amp; in the beginning of a syllable sounds like <hi>coo</hi> / as <hi>quick</hi> / &amp; ending a syllable is like <hi>ck</hi> / as <hi>chequ╌er.</hi> &amp;c</p>
+               <p>
+                  <hi>&amp;</hi> stands for <hi>and. &amp;c</hi> stand for <hi>and so forth</hi> / or <hi>and the like</hi> / or <hi>and the rest.</hi> or <hi>and so on.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>a e i o u</hi> / are <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or Sounders, as in <hi>am / end / it / of / us</hi> / &amp;c. Also <hi>w</hi> and <hi>y</hi> when have the same sounds as <hi>u</hi> and <hi>i.</hi> And <hi>i</hi> and <hi>u</hi> sometimes are <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that is, sounding with Vowels, altering their shapes to <hi>j</hi> and <hi>v</hi> / &amp; their Names to <hi>je</hi> and <hi>ve.</hi> or <hi>jod</hi> / &amp; <hi>vau.</hi> Note, <hi>w</hi> is a Welch vowel, &amp; <hi>y</hi> a Greek vowel. And <hi>j</hi> &amp; <hi>v</hi> are Hebrew Consonants.</p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> The other Letters are always Consonants.</p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>j</hi> Consonant is always written when begins a Syllable with a Vowel next following, as in <hi>just</hi> / &amp;c. Except when <hi>ie</hi> at the end of a word stand for <hi>y</hi> / as <hi>bod╌ie</hi> for <hi>bod╌y.</hi> Say <hi>ie</hi> / <hi>i.</hi> &amp; <hi>y</hi> by it self, <hi>i.</hi>
+               </p>
+               <p>VI <hi>v</hi> Consonant is always written when has a sound like <hi>f</hi> hard, as in <hi>ver</hi> / &amp;c.</p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>w</hi> is never a vowel but when another vowel comes before it in the same syllable, as <hi>grew</hi> / &amp;c.</p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>y</hi> is never a consonant but when it begins a syllable with a vowel after it, as in <hi>yet</hi> / &amp;c.</p>
+               <p n="8">
+                  <pb n="2" facs="tcp:48232:2"/>
+                  <hi>VIII.</hi> The Vowels give sounds to the Consonants: for no word can be formed of Consonants, without adding one vowel, or more, to it.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Tittle.</cell>
+                        <cell role="label">Read</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ā.</hi>
+                        </cell>
+                        <cell>
+                           <hi>an</hi> or <hi>am</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ē.</hi>
+                        </cell>
+                        <cell>
+                           <hi>en</hi> or <hi>em</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ī.</hi>
+                        </cell>
+                        <cell>
+                           <hi>in</hi> or <hi>im</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ō.</hi>
+                        </cell>
+                        <cell>
+                           <hi>on</hi> or <hi>om</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ū.</hi>
+                        </cell>
+                        <cell>
+                           <hi>un</hi> or <hi>um</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="9">
+                  <hi>IX,</hi> The Tittle over a Vowel alwaies stands for <hi>n</hi> or <hi>m</hi> / &amp; is put there, in Print, or in Writing, when (for want of Room, or through Haste,) either of those Letters is omitted. The sence will tell which of them you must read it for.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Syllables,</hi> or Compleat Sounds.</head>
+               <p>
+                  <hi>Rule 1. <hi>Vowels short.</hi> Rule 2. <hi>Vowels long.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <head>All the Consonants their Proper Sounds.</head>
+                  <item>ad ed id od ud.</item>
+                  <item>adg edg idg odg udg. <label>soft.</label>
+                  </item>
+                  <item>ang eng ing ong ung. <label>hard.</label>
+                  </item>
+                  <item>
+                     <list>
+                        <item>af ef if of uf.</item>
+                        <item>aph eph iph oph uph.</item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>ag eg ig og ug. <label>hard.</label>
+                  </item>
+                  <item>al el il ol ul.</item>
+                  <item>ap ep ip op up.</item>
+                  <item>ar er ir or ur.</item>
+                  <item>ab eb ib ob ub.</item>
+                  <item>as es is os us. <label>soft.</label>
+                  </item>
+                  <item>az ez iz oz uz. <label>hard.</label>
+                  </item>
+                  <item>
+                     <list>
+                        <item>au eu ou</item>
+                        <item>aw ew ow </item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>
+                     <list>
+                        <item>atch etch itch otch utch</item>
+                        <item>ach ech ich och uch.</item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>at et it ot ut.</item>
+                  <item>ax ex ix ox ux.</item>
+                  <item>
+                     <list>
+                        <item>ac ec ic oc uc.</item>
+                        <item>ack eck ick ock uck.</item>
+                        <item>aqu equ iqu oqu uqu</item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>ank enk ink onk unk.</item>
+                  <item>ath eth ith oth uth.</item>
+                  <item>ba be bi bo bu.</item>
+                  <item>da de di do du.</item>
+                  <item>
+                     <list>
+                        <item>fa fe fi fo fu.</item>
+                        <item>pha phe phi pho phu.</item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>la li ly lie.</item>
+                  <item>ga go gu. <label>hard.</label>
+                  </item>
+                  <item>
+                     <list>
+                        <item>ge gi gy. <label>soft.</label>
+                        </item>
+                        <item>je ji jy.</item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>
+                     <list>
+                        <item>ca co cu.</item>
+                        <item>ka ko ku.</item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>sca sco scu.</item>
+                  <item>
+                     <list>
+                        <item>se si sy</item>
+                        <item>ce ci cy</item>
+                        <item>sce sci scy</item>
+                     </list>
+                     <label>alike.</label>
+                  </item>
+                  <item>va ve vi vo vu.</item>
+                  <item>qua que qui quo quu.</item>
+                  <item>wa we wi wo wu.</item>
+                  <item>ya ye yi yo yu.</item>
+                  <item>cha che chi cho chu.</item>
+               </list>
+               <p n="10">
+                  <hi>X.</hi> c <hi>alwaies comes between a vowel &amp;</hi> k / <hi>if</hi> k <hi>ends that syllable.</hi>
+               </p>
+               <p n="11">
+                  <hi>XI.</hi> c <hi>never comes between a Consonant &amp;</hi> k.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:48232:2"/>
+               <list>
+                  <head>
+                     <hi>Monosyllables,</hi> or Words of one syllable to Rule <hi>1.</hi>
+                  </head>
+                  <item>apt</item>
+                  <item>arm</item>
+                  <item>at</item>
+                  <item>ass</item>
+                  <item>err</item>
+                  <item>ill</item>
+                  <item>art</item>
+                  <item>not</item>
+                  <item>but</item>
+                  <item>will</item>
+                  <item>for</item>
+                  <item>God</item>
+                  <item>Lord</item>
+                  <item>born</item>
+                  <item>from</item>
+                  <item>church</item>
+                  <item>which</item>
+                  <item>and</item>
+                  <item>hand</item>
+                  <item>bed</item>
+                  <item>nor</item>
+                  <item>pit</item>
+                  <item>rod</item>
+                  <item>run</item>
+                  <item>sat</item>
+                  <item>set</item>
+                  <item>sin</item>
+                  <item>six</item>
+                  <item>top</item>
+                  <item>bit</item>
+                  <item>bring</item>
+                  <item>sun</item>
+                  <item>ten</item>
+                  <item>pass</item>
+                  <item>rent</item>
+                  <item>rest</item>
+                  <item>rich</item>
+                  <item>send</item>
+                  <item>self</item>
+                  <item>fed</item>
+                  <item>led</item>
+                  <item>fit</item>
+                  <item>let</item>
+                  <item>shed</item>
+                  <item>far</item>
+                  <item>back</item>
+                  <item>born</item>
+                  <item>blot</item>
+                  <item>wring</item>
+                  <item>spring</item>
+                  <item>King</item>
+                  <item>sing</item>
+                  <item>long</item>
+                  <item>song</item>
+                  <item>songs</item>
+                  <item>bonds</item>
+                  <item>burnt</item>
+                  <item>brand</item>
+                  <item>bless</item>
+                  <item>bliss</item>
+                  <item>wash</item>
+                  <item>what</item>
+                  <item>cast</item>
+                  <item>corn</item>
+                  <item>cords</item>
+                  <item>crafts</item>
+                  <item>craft</item>
+                  <item>clap</item>
+                  <item>chaff</item>
+                  <item>cross</item>
+                  <item>did</item>
+                  <item>didst</item>
+                  <item>dish</item>
+                  <item>frosts</item>
+                  <item>frost</item>
+                  <item>drink</item>
+                  <item>dwell</item>
+                  <item>ends</item>
+                  <item>fast</item>
+                  <item>fish</item>
+                  <item>fill</item>
+                  <item>folk</item>
+                  <item>full</item>
+                  <item>form</item>
+                  <item>flesh</item>
+                  <item>gift</item>
+                  <item>gifts</item>
+                  <item>gods</item>
+                  <item>glad</item>
+                  <item>grass</item>
+                  <item>had</item>
+                  <item>hast</item>
+                  <item>hath</item>
+                  <item>hands</item>
+                  <item>harp</item>
+                  <item>her</item>
+                  <item>help</item>
+                  <item>held</item>
+                  <item>hell</item>
+                  <item>hill</item>
+                  <item>hills</item>
+                  <item>him</item>
+                  <item>horn</item>
+                  <item>hurt</item>
+                  <item>hurts</item>
+                  <item>kings</item>
+                  <item>kiss</item>
+                  <item>lack</item>
+                  <item>land</item>
+                  <item>lands</item>
+                  <item>left</item>
+                  <item>lost</item>
+                  <item>lusts</item>
+                  <item>lift</item>
+                  <item>lips</item>
+                  <item>lords</item>
+                  <item>mad</item>
+                  <item>man</item>
+                  <item>man's</item>
+                  <item>men</item>
+                  <item>men's</item>
+                  <item>mark</item>
+                  <item>midst</item>
+                  <item>mock</item>
+                  <item>much</item>
+                  <item>must</item>
+                  <item>part</item>
+                  <item>parts</item>
+                  <item>turn</item>
+                  <item>pomps</item>
+                  <item>lent</item>
+                  <item>sent</item>
+                  <item>sick</item>
+                  <item>suck</item>
+                  <item>such</item>
+                  <item>scorn</item>
+                  <item>tell</item>
+                  <item>shut</item>
+                  <item>sharp</item>
+                  <item>shun</item>
+                  <item>shrink</item>
+                  <item>slept</item>
+                  <item>slipt</item>
+                  <item>stand</item>
+                  <item>stars</item>
+                  <item>still</item>
+                  <item>strength</item>
+                  <item>sworn</item>
+                  <item>till</item>
+                  <item>thank</item>
+                  <item>trust</item>
+                  <item>thanks</item>
+                  <item>think</item>
+                  <item>thing</item>
+                  <item>things</item>
+                  <item>want</item>
+                  <item>wrath</item>
+                  <item>dust</item>
+                  <item>wast</item>
+                  <item>watch</item>
+                  <item>went</item>
+                  <item>wells</item>
+                  <item>wilt</item>
+                  <item>with</item>
+                  <item>worn</item>
+                  <item>wax.</item>
+               </list>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Rule 3. <hi>Some Letters not heard in Words to the</hi> 1<seg rend="sup">st</seg>. <hi>Rule Viz. Vowels short, &amp; Consonants proper.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>bread dread health wealth learn <label>
+                        <hi>the</hi> a <hi>not heard</hi>
+                     </label>
+                  </item>
+                  <item>dead death earth sweat <label>
+                        <hi>the</hi> a <hi>not heard</hi>
+                     </label>
+                  </item>
+                  <item>else pledge selves serve <label>
+                        <hi>the last</hi> e <hi>not sounded</hi>
+                     </label>
+                  </item>
+                  <item>come give live since love move prove horse purge judge<label>
+                        <hi>the</hi> e <hi>not heard</hi>
+                     </label>
+                  </item>
+                  <item>fierce <label>
+                        <hi>neither of the</hi> e<hi>'s pronounced</hi> c <hi>before</hi> e <hi>as</hi> s / <hi>&amp;</hi> g <hi>before</hi> e <hi>soft, <hi>by Rule 2.</hi>
+                        </hi>
+                     </label>
+                  </item>
+                  <item>bloud flouds young <label>
+                        <hi>the</hi> o <hi>not heard</hi>
+                     </label>
+                  </item>
+                  <item>build <label>
+                        <hi>the</hi> u <hi>not heard</hi>
+                     </label>
+                  </item>
+                  <item>debt lamb. <label>
+                        <hi>the</hi> b <hi>not heard.</hi>
+                     </label>
+                  </item>
+                  <item>gnash <label>
+                        <hi>the</hi> g <hi>not heard</hi>
+                     </label>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>The <hi>Capital,</hi> or Great English Letters.</hi>
+               </p>
+               <p>A B C D E F G H I K L M N O P Q R S T V V W X Y Z.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:48232:3"/>
+               <head>
+                  <hi>Monosyllables</hi> to Rule <hi>2.</hi> Viz. The Vowels long, &amp; Consonants their proper sounds.</head>
+               <p>A. a. I. O. <hi>The two last are always Capitals when stand alone for words.</hi>
+               </p>
+               <list>
+                  <item>go</item>
+                  <item>lo</item>
+                  <item>no</item>
+                  <item>so</item>
+                  <item>old</item>
+                  <item>by</item>
+                  <item>cry</item>
+                  <item>dry</item>
+                  <item>my</item>
+                  <item>why</item>
+                  <item>kind</item>
+                  <item>mild</item>
+                  <item> Christ</item>
+                  <item>mind</item>
+                  <item>minds</item>
+                  <item>wind</item>
+                  <item>winds</item>
+                  <item>find</item>
+                  <item>child</item>
+                  <item>both</item>
+                  <item>forth</item>
+                  <item>cold</item>
+                  <item>hold</item>
+                  <item>lest</item>
+                  <item>truth</item>
+                  <item>most</item>
+                  <item>whom.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Words written with Letters not heard, to Rule <hi>2.</hi>
+                  </hi>
+               </head>
+               <p>a <hi>not sounded in</hi>
+                  <list>
+                     <item>sea</item>
+                     <item>teach</item>
+                     <item>preach</item>
+                     <item>lead</item>
+                     <item>beasts</item>
+                     <item>least</item>
+                     <item>feast</item>
+                     <item>eat</item>
+                     <item>heat</item>
+                     <item>deaf</item>
+                     <item>leaf</item>
+                     <item>speak</item>
+                     <item>break</item>
+                     <item>heal</item>
+                     <item>steal</item>
+                     <item>deal</item>
+                     <item>dealt</item>
+                     <item>clean</item>
+                     <item>mean</item>
+                     <item>means</item>
+                     <item>meat</item>
+                     <item>beat</item>
+                     <item>great</item>
+                     <item>seat</item>
+                     <item>coach</item>
+                     <item>cloak</item>
+                     <item>oath.</item>
+                  </list>
+               </p>
+               <p>e <hi>not sounded in</hi>
+                  <list>
+                     <item>yea</item>
+                     <item>bear</item>
+                     <item>face</item>
+                     <item>grace</item>
+                     <item>place</item>
+                     <item>age</item>
+                     <item>scarce</item>
+                     <item>made</item>
+                     <item>rage</item>
+                     <item>make</item>
+                     <item>makes</item>
+                     <item>whales</item>
+                     <item>sake</item>
+                     <item>take</item>
+                     <item>came</item>
+                     <item>lame</item>
+                     <item>blame</item>
+                     <item>name</item>
+                     <item>names</item>
+                     <item>same</item>
+                     <item>spare</item>
+                     <item>snares</item>
+                     <item>haste</item>
+                     <item>taste</item>
+                     <item>waste</item>
+                     <item>gates</item>
+                     <item>hate</item>
+                     <item>state</item>
+                     <item>late</item>
+                     <item>gave</item>
+                     <item>save</item>
+                     <item>have</item>
+                     <item>ice</item>
+                     <item>side</item>
+                     <item>pride</item>
+                     <item>hide</item>
+                     <item>life</item>
+                     <item>wife</item>
+                     <item>like</item>
+                     <item>while</item>
+                     <item>time</item>
+                     <item>times</item>
+                     <item>mine</item>
+                     <item>nine</item>
+                     <item>pine</item>
+                     <item>wine</item>
+                     <item>wipe</item>
+                     <item>fire</item>
+                     <item>five</item>
+                     <item>lives</item>
+                     <item>wives</item>
+                     <item>bone</item>
+                     <item>foe</item>
+                     <item>force</item>
+                     <item>throne</item>
+                     <item>none</item>
+                     <item>whole</item>
+                     <item>smoke</item>
+                     <item>sore</item>
+                     <item>store</item>
+                     <item>more</item>
+                     <item>use</item>
+                     <item>due</item>
+                     <item>true</item>
+                     <item>mule</item>
+                     <item>rule</item>
+                     <item>pure</item>
+                     <item>sure.</item>
+                  </list>
+               </p>
+               <p>
+                  <list>
+                     <item>i <hi>not pronounced in</hi> air fruit fruits.</item>
+                     <item>o <hi>not heard in</hi> you. <hi>The last</hi> o <hi>in</hi> door poor.</item>
+                     <item>u <hi>not sounded in</hi> your mourn courts.</item>
+                     <item>ue <hi>not sounded in</hi> guide guile plague.</item>
+                     <item>a <hi>&amp; the last</hi> e <hi>not sounded in</hi> cleave peace.</item>
+                     <item>b <hi>not heard in</hi> womb.</item>
+                     <item>g <hi>not heard in</hi> sign.</item>
+                     <item>h <hi>not heard in</hi> Ghost.</item>
+                     <item>gh <hi>not pronounced in</hi> high nigh night nights light might right sight.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Rule 5. <hi>Words with proper</hi> Diph╌thongs, <hi>or two Vowels sounded together, and Vowels sounding like diph╌thongs. Viz.</hi>
+                  </hi>
+               </head>
+               <p>Ai / ap / aie <hi>for</hi> ay.
+<list>
+                     <item>Aid</item>
+                     <item>laid</item>
+                     <item>maid</item>
+                     <item>said</item>
+                     <item>fail</item>
+                     <item>frail</item>
+                     <pb n="5" facs="tcp:48232:3"/>
+                     <item>pain</item>
+                     <item>rain</item>
+                     <item>train</item>
+                     <item>vain</item>
+                     <item>faint</item>
+                     <item>saint</item>
+                     <item>faith</item>
+                     <item>day</item>
+                     <item>saith</item>
+                     <item>days</item>
+                     <item>lay</item>
+                     <item>may</item>
+                     <item>pray</item>
+                     <item>say</item>
+                     <item>slay</item>
+                     <item>way</item>
+                     <item>waies</item>
+                     <item>saints</item>
+                  </list>
+               </p>
+               <p>au. aw.
+<list>
+                     <item>Paul</item>
+                     <item>laud</item>
+                     <item>jaws</item>
+                     <item>law</item>
+                     <item>laws</item>
+                     <item>saw</item>
+                     <item>shawms.</item>
+                     <item>awe <label>
+                           <hi>the</hi> e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>taught <label>
+                           <hi>the</hi> gh <hi>not heard,</hi>
+                        </label>
+                     </item>
+                     <item>faults / vault / <label>
+                           <hi>the</hi> l <hi>not pronounced.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>ee.
+<list>
+                     <item>See</item>
+                     <item>wee</item>
+                     <item>yee</item>
+                     <item>flee</item>
+                     <item>free</item>
+                     <item>tree</item>
+                     <item>three.</item>
+                     <item>
+                        <hi>So</hi> be</item>
+                     <item>he</item>
+                     <item>me</item>
+                     <item>she</item>
+                     <item>we</item>
+                     <item>ye.</item>
+                     <item>Deed</item>
+                     <item>feed</item>
+                     <item>heed</item>
+                     <item>seed</item>
+                     <item>cheek</item>
+                     <item>meek</item>
+                     <item>speed</item>
+                     <item>need</item>
+                     <item>needs</item>
+                     <item>been</item>
+                     <item>green.</item>
+                     <item>Kneel knees <label>
+                           <hi>the</hi> k <hi>not pronounced.</hi>
+                        </label>
+                     </item>
+                     <item>Queen</item>
+                     <item>seen</item>
+                     <item>deep</item>
+                     <item>keep</item>
+                     <item>sheep</item>
+                     <item>sleep</item>
+                     <item>teeth</item>
+                     <item>fleeth</item>
+                     <item>feet</item>
+                     <item>meet</item>
+                     <item>sweet</item>
+                     <item>streets.</item>
+                     <item>
+                        <hi>So</hi> Dear</item>
+                     <item>ears</item>
+                     <item>dearth</item>
+                     <item>fear</item>
+                     <item>clear</item>
+                     <item>hear</item>
+                     <item>chief</item>
+                     <item>grief</item>
+                     <item>priests</item>
+                     <item>yeild.</item>
+                     <item>Here <label>
+                           <hi>the last</hi> e <hi>not sounded.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>And</hi> i. ie. ey <hi>&amp;</hi> y. <hi>being in many syllables short, must be sounded as</hi> ee / <hi>as in</hi> Cit╌ies / God╌li╌ly. mon╌ey. <hi>In spea<g ref="char:EOLhyphen"/>king at least, if not in spelling: and if the one, why not the other?</hi>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> R<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e in <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me other Languag<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>ei. ey.<list>
+                     <item> eight <label>
+                           <hi>the</hi> gh <hi>not sounded.</hi>
+                        </label>
+                     </item>
+                     <item>prey.</item>
+                     <item>eye eyes <label>
+                           <hi>the last</hi> e <hi>not sounded.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>eu. ew.<list>
+                     <item>dews</item>
+                     <item>new</item>
+                     <item>shew</item>
+                     <item>Eu╌nuch <label>
+                           <hi>the</hi> ch <hi>like</hi> k.</label>
+                     </item>
+                  </list>
+               </p>
+               <p>oi. oy.
+<list>
+                     <item>voice <label>
+                           <hi>the</hi> e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>oyl</item>
+                     <item>loyns</item>
+                     <item>joy.</item>
+                  </list>
+               </p>
+               <p>oo <list>
+                     <item>choose. </item>
+                     <item>
+                        <hi>So</hi> whose / <label>
+                           <hi>the</hi> e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>too</item>
+                     <item>moon</item>
+                     <item>soon</item>
+                     <item>fools</item>
+                     <item>look.</item>
+                     <item>
+                        <hi>So</hi> to</item>
+                     <item>who</item>
+                     <item>do</item>
+                     <item>should</item>
+                     <item>would.</item>
+                     <item>through <label>
+                           <hi>the</hi> gh <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>two <label>
+                           <hi>the</hi> w <hi>not heard.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>ou. ow. <list>
+                     <item>hour <label>
+                           <hi>the</hi> h <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>our</item>
+                     <item>four</item>
+                     <item>pour</item>
+                     <item>proud</item>
+                     <item>clouds</item>
+                     <item>fourth</item>
+                     <item>bound</item>
+                     <item>found</item>
+                     <item>round</item>
+                     <item>wounds</item>
+                     <item>mouth</item>
+                     <item>now</item>
+                     <item>owl</item>
+                     <item>fowls</item>
+                     <item>how</item>
+                     <item>bow</item>
+                     <item>vow</item>
+                     <item>down</item>
+                     <item>drown.</item>
+                     <item>doubt <label>
+                           <hi>the</hi> b <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>house showres <label>
+                           <hi>the</hi> e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item> drought <label>
+                           <hi>the</hi> gh <hi>not sounded.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Rule▪ <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Vowels, Diph╌thongs, &amp; Consonants Improp<g ref="char:EOLhyphen"/>er; that is, differing in their sounds from the</hi> 1st., 2d., <hi>&amp;</hi> 5th. <hi>Rules. Viz.</hi>
+                  </hi>
+               </head>
+               <p>a <hi>broad, much like</hi> au / <hi>in</hi>
+                  <list>
+                     <item>all</item>
+                     <item>call</item>
+                     <item>fall</item>
+                     <item>shall</item>
+                     <item>small</item>
+                     <item>walls</item>
+                     <item>walk</item>
+                     <item>shalt</item>
+                     <item>grant</item>
+                     <item>last.</item>
+                     <item>Change charge large are bare sware<label>
+                           <hi>the</hi> e <hi>not pronounced.</hi>
+                        </label>
+                     </item>
+                     <pb n="6" facs="tcp:48232:4"/>
+                     <item>Psalm Psalms <label>
+                           <hi>the</hi> p <hi>and the</hi> l <hi>not heard.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>e <hi>broad, like</hi> a <hi>long,</hi>
+                  <list>
+                     <item>were where there / <label>
+                           <hi>the last</hi> e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>their / <label>
+                           <hi>the</hi> i <hi>not pronounced.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>o <hi>broad, like</hi> oh <hi>long,</hi>
+                  <list>
+                     <item>grow snow slow know known own <label>/ w <hi>not sounded.</hi>
+                        </label>
+                     </item>
+                     <item>bowe <label>/ we <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>soul souls <label>/ <hi>the</hi> u <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>though brought ought nought sought <label>/ <hi>the</hi> gh <hi>not pronounced.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>e <hi>like</hi> i <hi>short, in</hi> yes. i. o. <hi>&amp;</hi> oo. <hi>like</hi> u <hi>short, in</hi>
+                  <list>
+                     <item>third</item>
+                     <item>thirst.</item>
+                     <item>dost</item>
+                     <item>doth</item>
+                     <item>son</item>
+                     <item>word</item>
+                     <item>words</item>
+                     <item>world</item>
+                     <item>worlds</item>
+                     <item>worms.</item>
+                     <item>blood</item>
+                     <item>food</item>
+                     <item>foot.</item>
+                     <item>done <label>/ <hi>the</hi> e <hi>not sounded.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>o <hi>like</hi> wo / <hi>in</hi> one once <label>/ e <hi>not heard.</hi>
+                  </label>
+               </p>
+               <p>u <hi>like</hi> e / <hi>in</hi> bur╌y. g <hi>soft, in</hi> get. gh <hi>like</hi> f / <hi>in</hi> laugh.</p>
+               <p>s <hi>hard, in</hi>
+                  <list>
+                     <item>is</item>
+                     <item>his</item>
+                     <item>as</item>
+                     <item>was</item>
+                     <item>seas</item>
+                     <item>sins.</item>
+                     <item>cause</item>
+                     <item>raise</item>
+                     <item>please</item>
+                     <item>praise</item>
+                     <item>rise</item>
+                     <item>rose</item>
+                     <item>wise</item>
+                     <item>noise</item>
+                     <item>chuse</item>
+                     <item>
+                        <hi>to</hi> use <hi>to</hi> muse <label>/ <hi>the</hi> e<hi>'s not sounded.</hi>
+                        </label>
+                     </item>
+                     <item>bruise <label>
+                           <hi>the</hi> i <hi>&amp; the</hi> e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                     <item>cleanse <label>
+                           <hi>the</hi> a <hi>&amp; the last</hi> e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>t <hi>hard, in</hi>
+                  <list>
+                     <item>the</item>
+                     <item>thee</item>
+                     <item>then</item>
+                     <item>that</item>
+                     <item>them</item>
+                     <item>they</item>
+                     <item>mouths</item>
+                     <item>thy</item>
+                     <item>thou</item>
+                     <item>this</item>
+                     <item>thus.</item>
+                     <item>thine thence these those <label>/ e <hi>not heard.</hi>
+                        </label>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Rule 7. <hi>When</hi>
+                  </hi> le / les / re / <hi>or</hi> res / <hi>with a Consonant going before, end a word, the</hi> e <hi>must be sounded as if it were before the</hi> l <hi>or</hi> r / <hi>but not so full as</hi> el <hi>&amp;</hi> er / <hi>nor so shrill as</hi> il <hi>&amp;</hi> ir / <hi>but between both, as</hi> tréb╌le / o╌pin╌i╌á╌tre / cír╌cles / á╌cres / <hi>the</hi> last c<hi>'s sounding like</hi> k.</p>
+            </div>
+            <div type="verse">
+               <head>A Lesson to be read, &amp; learnt by heart.</head>
+               <lg>
+                  <l>Dare to be True. Nóth╌ing can need a Lye:</l>
+                  <l>A Fault that needs it most / grows Two there╌by.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>The Right Etymology, or Derivation of the word Spel<g ref="char:EOLhyphen"/>ling, is from the old Saxon, for wording, or handling of Words: But I shall here restrain its meaning (as is now Customary,) to Truly Dividing Words into Syllables; And lay down This for another <hi>GENERAL, Unaltera<g ref="char:EOLhyphen"/>ble RULE,</hi> That</hi>
+               </p>
+               <p n="12">
+                  <hi>XII. <hi>All Words must be divided into just so many Syl<g ref="char:EOLhyphen"/>lables in True Spelling, as they have distinct Sounds in proper
+<pb n="7" facs="tcp:48232:4"/> speaking; &amp; ought so to be parted into Syllables, as are pronounced into Sounds; or as near it as possible:</hi>
+                  </hi>
+               </p>
+               <p>And by Consequence, <hi>Particularly</hi>
+               </p>
+               <p>
+                  <hi>Rule 8.</hi> ci / sci / si / <hi>or</hi> ti / <hi>before a Vowel is no Syllable of it self, but must be sounded like</hi> sh / <hi>as in</hi> án╌cient. so╌cia╌ble. cón╌science. con╌scién╌tious. A╌sia. suc╌cés╌sion. cáp╌tious. ác╌tion.</p>
+               <p>
+                  <hi>Except the words</hi> scí╌ence / Sí╌on / beaú╌ti╌ous / <hi>and a few others; &amp; when</hi> s <hi>ends the syllable next before</hi> ti / <hi>as in</hi> Bás╌ti╌on. Fús╌ti╌an. &amp;c.</p>
+               <p>
+                  <hi>Dissyllables, <hi>or Words of two syllables, to Rule</hi> 1. <hi>the Vowels short, &amp; Consonants proper.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>NB. Where this [l] Accent is, the Voice must be loudest.</hi>
+               </p>
+               <p>
+                  <list>
+                     <item>As╌sist</item>
+                     <item>áf╌ter</item>
+                     <item>ab╌hór</item>
+                     <item>árm╌ed</item>
+                     <item>ac╌cépt</item>
+                     <item>An╌gel</item>
+                     <item>án╌guish</item>
+                     <item>án╌swer</item>
+                     <item>ac╌córd</item>
+                     <item>án╌gels</item>
+                     <item>Bét╌ters</item>
+                     <item>bléss╌ing</item>
+                     <item>bléss╌ed</item>
+                     <item>bát╌tel</item>
+                     <item>bréth╌ren</item>
+                     <item>búr╌then</item>
+                     <item>búl╌locks</item>
+                     <item>bít╌ter</item>
+                     <item>bás╌ket</item>
+                     <item>báp╌tism</item>
+                     <item>Bísh╌ops</item>
+                     <item>Cháp╌ter</item>
+                     <item>Cóm╌mons</item>
+                     <item>chíl╌dren</item>
+                     <item>Com╌mít</item>
+                     <item>cóv╌et</item>
+                     <item>cán╌not</item>
+                     <item>cor╌réct</item>
+                     <item>con╌féss</item>
+                     <item>cór╌ners</item>
+                     <item>cát╌tel</item>
+                     <item>cón╌cord</item>
+                     <item>con╌témpt</item>
+                     <item>cóm╌ing</item>
+                     <item>cóm╌fort</item>
+                     <item>cóm╌mon</item>
+                     <item>cóm╌eth</item>
+                     <item>chás╌ten</item>
+                     <item>cóm╌pass</item>
+                     <item>cor╌rúpt</item>
+                     <item>con╌tént</item>
+                     <item>dán╌gers</item>
+                     <item>dán╌ger</item>
+                     <item>dwéll╌eth</item>
+                     <item>Dárk╌ness</item>
+                     <item>Dév╌il</item>
+                     <item>dwéll╌ers</item>
+                     <item>dis╌tréss</item>
+                     <item>dám╌ned</item>
+                     <item>dis╌pérst</item>
+                     <item>En╌rich</item>
+                     <item>ex╌cépt</item>
+                     <item>év╌er</item>
+                     <item>ér╌red</item>
+                     <item>én╌ter</item>
+                     <item>ex╌ténd</item>
+                     <item>énd╌ed</item>
+                     <item>Fást╌ing</item>
+                     <item>fíll╌est</item>
+                     <item>fíll╌ed</item>
+                     <item>ful╌fíll</item>
+                     <item>fór╌mer</item>
+                     <item>Gós╌pel</item>
+                     <item>gív╌eth</item>
+                     <item>gív╌en</item>
+                     <item>gív╌er</item>
+                     <item>Gív╌est</item>
+                     <item>gár╌ments</item>
+                     <item>glád╌ness</item>
+                     <item>góv╌ern</item>
+                     <item>gráft╌ed</item>
+                     <item>gót╌ten</item>
+                     <item>gár╌ment</item>
+                     <item>gásp╌eth</item>
+                     <item>grúdg╌ing</item>
+                     <item>gív╌ing</item>
+                     <item>Him╌sélf</item>
+                     <item>hárd╌en</item>
+                     <item>hún╌dred</item>
+                     <item>hárd╌ness</item>
+                     <item>hólp╌en</item>
+                     <item>hélp╌ing</item>
+                     <item>húm╌bled</item>
+                     <item>In╌fórm</item>
+                     <item>ín╌fants</item>
+                     <item>ín<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ward</item>
+                     <item>júdg╌ment</item>
+                     <item>júdg╌ed</item>
+                     <pb n="8" facs="tcp:48232:5"/>
+                     <item>Kíng╌dom</item>
+                     <item>kin╌dled</item>
+                     <item>kíns╌men</item>
+                     <item>kíng╌doms</item>
+                     <item>Lív╌ing</item>
+                     <item>líft╌er</item>
+                     <item>lóv╌er</item>
+                     <item>lát╌ter</item>
+                     <item>lóv╌ing</item>
+                     <item>lénd╌eth</item>
+                     <item>lét╌test</item>
+                     <item>lóv╌ers</item>
+                     <item>Mém╌bers</item>
+                     <item>móv╌ed</item>
+                     <item>mém╌ber</item>
+                     <item>Más╌ters</item>
+                     <item>Már╌tyr</item>
+                     <item>mán╌ner</item>
+                     <item>móv╌eth</item>
+                     <item>múr╌der</item>
+                     <item>már╌vels</item>
+                     <item>mér╌its</item>
+                     <item>mórn╌ing</item>
+                     <item>míng╌led</item>
+                     <item>Núm╌bred</item>
+                     <item>név╌er</item>
+                     <item>núm╌ber</item>
+                     <item>Op╌préss</item>
+                     <item>ór╌der</item>
+                     <item>óf╌fer</item>
+                     <item>pánt╌eth</item>
+                     <item>prés╌seth</item>
+                     <item>pút╌teth</item>
+                     <item>pás╌seth</item>
+                     <item>Prín╌ces</item>
+                     <item>pér╌ils</item>
+                     <item>pún╌ish</item>
+                     <item>pér╌fect</item>
+                     <item>pót ters</item>
+                     <item>píck╌ing</item>
+                     <item>per╌fórm</item>
+                     <item>pár╌don</item>
+                     <item>próf╌it</item>
+                     <item>próv╌ed</item>
+                     <item>prós╌per</item>
+                     <item>pér╌ish</item>
+                     <item>Próph╌et</item>
+                     <item>Próph╌ets</item>
+                     <item>Prin╌céss</item>
+                     <item>Quíck╌en</item>
+                     <item>Rést╌ed</item>
+                     <item>rénd╌er</item>
+                     <item>Súp╌per</item>
+                     <item>sín╌ful</item>
+                     <item>Sít╌teth</item>
+                     <item>sév╌enth</item>
+                     <item>Sáb╌bath</item>
+                     <item>sérv╌ant</item>
+                     <item>sub╌mít</item>
+                     <item>spír╌it</item>
+                     <item>sín╌ned</item>
+                     <item>sín╌ner</item>
+                     <item>sín╌ners</item>
+                     <item>scórn╌ful</item>
+                     <item>shárp╌ness</item>
+                     <item>sít╌test</item>
+                     <item>Spír╌its</item>
+                     <item>stánd╌eth</item>
+                     <item>súd╌den</item>
+                     <item>stréngth╌en</item>
+                     <item>súf╌fer</item>
+                     <item>síck╌ness</item>
+                     <item>scórn ers</item>
+                     <item>scórn╌ing</item>
+                     <item>strétch╌ed</item>
+                     <item>smít╌ten</item>
+                     <item>stáb╌lish</item>
+                     <item>shórt╌ned</item>
+                     <item>stéd╌fast</item>
+                     <item>sét╌ting</item>
+                     <item>sérv╌ants</item>
+                     <item>Súm╌mer</item>
+                     <item>trés╌pass</item>
+                     <item>ténd╌er</item>
+                     <item>thánk╌ful</item>
+                     <item>túrn╌eth</item>
+                     <item>témpt╌ed</item>
+                     <item>trúst╌ed</item>
+                     <item>trúst╌ing</item>
+                     <item>tém╌pest</item>
+                     <item>tráv╌el</item>
+                     <item>túrn╌ed</item>
+                     <item>trúmp╌ets</item>
+                     <item>Vp╌ón</item>
+                     <item>ún╌der</item>
+                     <item>Vés╌sel</item>
+                     <item>ván╌quish</item>
+                     <item>véx╌ed</item>
+                     <item>vír╌gin</item>
+                     <item>vír╌gins</item>
+                     <item>Wíck╌ed</item>
+                     <item>with╌ín</item>
+                     <item>wít╌ness</item>
+                     <item>wín╌ter</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <list>
+                  <head>
+                     <hi>Dissyllables <hi>To <gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> The Letters not sounded being here, &amp; so throughout afterwards, in another Cha<g ref="char:EOLhyphen"/>racter.</hi>
+                     </hi>
+                  </head>
+                  <item>Hón our</item>
+                  <item>jéal╌ous</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> as in page the <hi>4th.</hi>
+                     </hi>
+                  </head>
+                  <item>Créa╌tures</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To</hi>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>Be╌liéve</item>
+                  <item>Be╌séech</item>
+                  <item>Be╌líef</item>
+                  <item>bóun╌ty</item>
+                  <item>be╌cáuse</item>
+                  <item>dái╌ly</item>
+                  <item>déar╌ly</item>
+                  <item>chíef╌ly</item>
+                  <item>fóun╌tain</item>
+                  <item>frée╌ly</item>
+                  <item>fráil╌ty</item>
+                  <item>móunt╌ain</item>
+                  <item>móunt╌ains</item>
+                  <item>main╌táin</item>
+                  <item>méek╌ly</item>
+                  <pb n="9" facs="tcp:48232:5"/>
+                  <item>Pláin╌ly</item>
+                  <item>through╌óut</item>
+                  <item>thróugh╌ly</item>
+                  <item>váin╌ly</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule 6▪</hi> in page 5.</hi>
+                  </head>
+                  <item>Al╌thóugh</item>
+                  <item>Dis╌éase</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Ru. <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </hi>
+                  </head>
+                  <item>Man╌kínd</item>
+                  <item>Whírl╌wind</item>
+                  <item>Vt╌most</item>
+               </list>
+               <p>
+                  <hi>Observe, <hi>That what Rule soever is first named, belongs to the first Syllable, &amp; the second named, belongs to the second Syllable, Throughout.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule <gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> in pages <hi>2</hi> &amp; <hi>3.</hi>
+                     </hi>
+                  </head>
+                  <item>Cón╌trite</item>
+                  <item>Cáp╌tives</item>
+                  <item>dóc╌trine</item>
+                  <item>for╌gíve</item>
+                  <item>fám╌ine</item>
+                  <item>Gén╌tiles</item>
+                  <item>júst╌ice</item>
+                  <item>mál╌ice</item>
+                  <item>óf╌fice</item>
+                  <item>próm╌ise</item>
+                  <item>pás╌tours</item>
+                  <item>súc╌cour</item>
+                  <item>sérv╌ice</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule <gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> in page <hi>2.</hi>
+                     </hi>
+                  </head>
+                  <item>A╌ménd</item>
+                  <item>A╌mén</item>
+                  <item>a╌míss</item>
+                  <item>a╌móng</item>
+                  <item>bró╌ken</item>
+                  <item>Blínd╌ness</item>
+                  <item>Crí╌eth</item>
+                  <item>crý╌ing</item>
+                  <item>de╌párt</item>
+                  <item>De╌fénd</item>
+                  <item>de╌scénd</item>
+                  <item>dí╌vers</item>
+                  <item>E╌gypt</item>
+                  <item>E╌léct</item>
+                  <item>é╌ven</item>
+                  <item>Grá╌ven</item>
+                  <item>há╌tred</item>
+                  <item>Há╌ted</item>
+                  <item>há╌ving</item>
+                  <item>Ié╌sus</item>
+                  <item>í╌ron</item>
+                  <item>Kínd╌ness</item>
+                  <item>Lý╌ing</item>
+                  <item>mínd╌ful</item>
+                  <item>Má╌ker</item>
+                  <item>Ná╌ked</item>
+                  <item>O╌pen</item>
+                  <item>ó╌ver</item>
+                  <item>Pre╌vént</item>
+                  <item>Rú╌ler</item>
+                  <item>re╌pént</item>
+                  <item>rú╌lers</item>
+                  <item>re╌wárd</item>
+                  <item>re╌quésts</item>
+                  <item>re╌síst</item>
+                  <item>re╌frésh</item>
+                  <item>re╌quést</item>
+                  <item>ró╌red</item>
+                  <item>re╌túrn</item>
+                  <item>re╌frésht</item>
+                  <item>Sá╌tan</item>
+                  <item>Só╌ber</item>
+                  <item>smí╌test</item>
+                  <item>spó╌ken</item>
+                  <item>sá╌ved</item>
+                  <item>sá╌ving</item>
+                  <item>spá ring</item>
+                  <item>tá╌keth</item>
+                  <item>tá╌ken</item>
+                  <item>Tá╌kest</item>
+                  <item>tý╌dings</item>
+                  <item>trí╌umph</item>
+                  <item>Whí╌ter</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Ru<gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi>
+                     </hi>
+                  </head>
+                  <item>Póor╌ly</item>
+                  <item>Súre╌ly</item>
+                  <item>Súre╌ties</item>
+                  <item>beaú╌ty</item>
+                  <item>gréat╌ly</item>
+                  <item>live ly</item>
+                  <item>sáfe╌ty</item>
+                  <item>Ghóst╌ly</item>
+                  <item>hígh╌ly</item>
+                  <item>míght y</item>
+                  <item>wéa╌ry</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule <gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> in pages <hi>3</hi> &amp; <hi>2.</hi>
+                     </hi>
+                  </head>
+                  <item>Dréad╌ful</item>
+                  <item>guílt╌less</item>
+                  <item>héav╌en</item>
+                  <item>Heárk╌en</item>
+                  <item>héalth╌ful</item>
+                  <item>hýs╌sop</item>
+                  <item>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ón<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or</item>
+                  <item>léarn╌ed</item>
+                  <item>Léop╌ard</item>
+                  <item>troúb╌led</item>
+                  <item>thréat╌ning</item>
+                  <item>wéath╌er</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule <gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> &amp; 4</hi> in pa. <hi>4.</hi>
+                     </hi>
+                  </head>
+                  <item>Be╌néath</item>
+                  <item>Be╌fóre</item>
+                  <item>be╌tímes</item>
+                  <item>móist╌ure</item>
+                  <item>three╌scóre</item>
+                  <item>vouch╌sáfe</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule <gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 3</hi> in pages <hi>2</hi> &amp; <hi>3.</hi>
+                     </hi>
+                  </head>
+                  <item>A╌bóve</item>
+                  <item>de╌fénce</item>
+                  <item>fá╌vour</item>
+                  <item>lá╌bour</item>
+                  <item>pre╌sérve</item>
+               </list>
+               <pb n="10" facs="tcp:48232:6"/>
+               <list>
+                  <head>
+                     <hi>To <hi>Ru. 1 &amp; 4.</hi>
+                     </hi>
+                  </head>
+                  <item>As╌súre</item>
+                  <item>As╌swáge</item>
+                  <item>Ap╌péal</item>
+                  <item>Blas╌phéme</item>
+                  <item>bónd╌age</item>
+                  <item>cóm╌mune</item>
+                  <item>con╌súme</item>
+                  <item>Cón╌course</item>
+                  <item>en╌dúe</item>
+                  <item>en╌dúre</item>
+                  <item>ex╌tréme</item>
+                  <item>For╌sáke</item>
+                  <item>ím age</item>
+                  <item>in╌créase</item>
+                  <item>in╌clíne</item>
+                  <item>Pás╌sage</item>
+                  <item>pás╌ture</item>
+                  <item>scríp╌ture</item>
+                  <item>shád╌ow</item>
+                  <item>Sór╌rows</item>
+                  <item>spár╌row</item>
+                  <item>vést╌ure</item>
+                  <item>Wíd╌ows</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 4 &amp; 1.</hi> in pages <hi>1</hi> &amp; <hi>2.</hi>
+                     </hi>
+                  </head>
+                  <item>Chéap╌ness</item>
+                  <item>Déa╌cons</item>
+                  <item>Déal╌ing</item>
+                  <item>Eat╌en</item>
+                  <item>Gróan╌ing</item>
+                  <item>líke╌ness</item>
+                  <item>líght╌en</item>
+                  <item>líght╌ning</item>
+                  <item>Hígh╌est</item>
+                  <item>Hígh╌ness</item>
+                  <item>líght nings</item>
+                  <item>méan╌est</item>
+                  <item>Móurn╌ing</item>
+                  <item>móurn╌ings</item>
+                  <item>púre╌ness</item>
+                  <item>préach╌ing</item>
+                  <item>Ríght╌ful</item>
+                  <item>stéal╌ing</item>
+                  <item>spéak╌ing</item>
+                  <item>séal╌ed</item>
+                  <item>Sigh╌íng</item>
+                  <item>téach╌ers</item>
+                  <item>wéan╌ed</item>
+                  <item>wéak╌ness</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules the 1st. &amp; 5th.,</hi> in pages <hi>2</hi> &amp; <hi>4.</hi>
+                     </hi>
+                  </head>
+                  <item>Ar my</item>
+                  <item>As╌sáults</item>
+                  <item>at╌táin</item>
+                  <item>bód╌y</item>
+                  <item>bód╌ies</item>
+                  <item>Clér╌gy</item>
+                  <item>Cáp╌tain</item>
+                  <item>Cáp tains</item>
+                  <item>con╌fóund</item>
+                  <item>Cít╌y</item>
+                  <item>com╌pláin</item>
+                  <item>com╌pláint</item>
+                  <item>én╌vy</item>
+                  <item>En╌jóy</item>
+                  <item>émp╌ty</item>
+                  <item>fór╌ty</item>
+                  <item>gód╌ly</item>
+                  <item>Háp╌py</item>
+                  <item>húm╌bly</item>
+                  <item>in╌tó</item>
+                  <item>in╌déed</item>
+                  <item>Iúst╌ly</item>
+                  <item>mis╌déeds</item>
+                  <item>mér╌cy</item>
+                  <item>mér╌cies</item>
+                  <item>Mís╌chief</item>
+                  <item>ón╌ly</item>
+                  <item>ob╌táin</item>
+                  <item>pít╌y</item>
+                  <item>Plén╌ty</item>
+                  <item>prív╌y</item>
+                  <item>sún╌dry</item>
+                  <item>ap╌péar</item>
+                  <item>Sór╌ry</item>
+                  <item>sus╌táin</item>
+                  <item>un╌tó</item>
+                  <item>vér╌y</item>
+                  <item>sór╌y</item>
+                  <item>án╌gry</item>
+                  <item>with╌óut</item>
+                  <item>with╌dráw</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 3 &amp; 2.</hi> in pages <hi>3</hi> &amp; <hi>2.</hi>
+                     </hi>
+                  </head>
+                  <item>Hence╌fórth</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 2 &amp; 8.</hi>
+                     </hi>
+                  </head>
+                  <item>Grá╌cious</item>
+                  <item>Ná╌tion</item>
+                  <item>Ná╌tions</item>
+                  <item>pré╌cious</item>
+                  <item>pá╌tience</item>
+                  <item>spé╌cial</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Ru. 1 &amp; 6.</hi>
+                     </hi>
+                  </head>
+                  <item>An╌ger</item>
+                  <item>Ar╌rows</item>
+                  <item>Ash╌es</item>
+                  <item>Com╌mánd</item>
+                  <item>físh╌es</item>
+                  <item>fól╌low</item>
+                  <item>for╌gét</item>
+                  <item>Hún╌ger</item>
+                  <item>júdg╌es</item>
+                  <item>múr╌ther</item>
+                  <item>mór╌row</item>
+                  <item>Pér╌son</item>
+                  <item>pér╌sons</item>
+                  <item>rích╌es</item>
+                  <item>un╌dóne</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 1 &amp; 8.</hi>
+                     </hi>
+                  </head>
+                  <item>Pón╌tius</item>
+                  <item>Pás╌sion</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 2 &amp; 6,</hi> in pages <hi>2</hi> &amp; <hi>5.</hi>
+                     </hi>
+                  </head>
+                  <item>A╌bróad</item>
+                  <item>Chó╌sen</item>
+                  <item>de╌sért</item>
+                  <item>de╌sire</item>
+                  <item>de╌síres</item>
+                  <item>De╌spíse</item>
+                  <item>plá╌ces</item>
+                  <item>a╌ríse</item>
+                  <item>a╌búse</item>
+               </list>
+               <pb n="11" facs="tcp:48232:6"/>
+               <list>
+                  <head>
+                     <hi>To <hi>Ru. 5 &amp; 1.</hi>
+                     </hi>
+                  </head>
+                  <item>Bé╌ing</item>
+                  <item>Be╌lóng</item>
+                  <item>Be╌gán</item>
+                  <item>Chéer╌ful</item>
+                  <item>cóun╌sel</item>
+                  <item>cóun╌sels</item>
+                  <item>Coún╌cil</item>
+                  <item>cráwl╌ing</item>
+                  <item>dáy╌spring</item>
+                  <item>dáught╌er</item>
+                  <item>dó╌ing</item>
+                  <item>Dó╌eth</item>
+                  <item>dó╌ings</item>
+                  <item>dráw╌eth</item>
+                  <item>é╌vil</item>
+                  <item>E╌víls</item>
+                  <item>fáith╌ful</item>
+                  <item>páin╌ful</item>
+                  <item>féar╌eth</item>
+                  <item>Féar╌ed</item>
+                  <item>fáil╌ed</item>
+                  <item>frée╌dom</item>
+                  <item>gríev╌ed</item>
+                  <item>Ióy╌ful</item>
+                  <item>lóok╌ed</item>
+                  <item>láw╌ful</item>
+                  <item>lóok╌ing</item>
+                  <item>Máy╌est</item>
+                  <item>néed╌ful</item>
+                  <item>óut╌ward</item>
+                  <item>práy╌ers</item>
+                  <item>Pów╌ers</item>
+                  <item>práy╌er</item>
+                  <item>pów╌er</item>
+                  <item>Róy╌al</item>
+                  <item>Sáy╌ing</item>
+                  <item>stráy╌ed</item>
+                  <item>sée╌ing</item>
+                  <item>shéw╌ed</item>
+                  <item>shów╌ers</item>
+                  <item>Tów╌er</item>
+                  <item>thóu╌sands</item>
+                  <item>thóu╌sand</item>
+                  <item>To╌wárds</item>
+                  <item>tóok╌est</item>
+                  <item>wóund╌ed</item>
+                  <item>wéep╌ing</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 6 &amp; 1.</hi>
+                     </hi>
+                  </head>
+                  <item>Al╌tar</item>
+                  <item>Cáll╌ed</item>
+                  <item>cáll╌ing</item>
+                  <item>chám╌ber</item>
+                  <item>ál╌ter</item>
+                  <item>cháng╌ed</item>
+                  <item>Fáth╌er</item>
+                  <item>fáth╌ers</item>
+                  <item>góod╌ness</item>
+                  <item>gránt╌ing</item>
+                  <item>Knów╌eth</item>
+                  <item>knów╌est</item>
+                  <item>léas╌ing</item>
+                  <item>Móth╌er</item>
+                  <item>Noth╌íng</item>
+                  <item>óth╌er</item>
+                  <item>pléas╌ant</item>
+                  <item>prés╌ent</item>
+                  <item>Plánt╌ed</item>
+                  <item>ráth╌er</item>
+                  <item>strán╌ger</item>
+                  <item>there╌óf</item>
+                  <item>There╌ín</item>
+                  <item>tálk╌ed</item>
+                  <item>vís╌it</item>
+                  <item>where╌ín</item>
+                  <item>Wát╌er</item>
+                  <item>wór╌ship</item>
+                  <item>where╌óf</item>
+                  <item>whéth╌er</item>
+                  <item>wálk╌ed</item>
+                  <item>wíth╌er</item>
+                  <item>wát╌ers</item>
+                  <item>wís╌dom</item>
+                  <item>wóm╌en</item>
+                  <item>wórk╌eth</item>
+                  <item>wórk╌est</item>
+                  <item>where╌wíth</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 1 &amp; 7.</hi> in pages <hi>2</hi> &amp; <hi>6.</hi>
+                     </hi>
+                  </head>
+                  <item>Cát╌tle</item>
+                  <item>Kín╌dle</item>
+                  <item>lít╌tle</item>
+                  <item>sim╌ple</item>
+                  <item>húm╌ble</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Ru. 6 &amp; 2.</hi>
+                     </hi>
+                  </head>
+                  <item>Al╌so</item>
+                  <item>There╌bý</item>
+                  <item>whére╌by</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 2 &amp; 4.</hi> in pages <hi>2</hi> &amp; <hi>4.</hi>
+                     </hi>
+                  </head>
+                  <item>A╌líve</item>
+                  <item>A╌bíde</item>
+                  <item>a╌lóne</item>
+                  <item>a╌báte</item>
+                  <item>de╌céive</item>
+                  <item>Cú╌rates</item>
+                  <item>de╌cláre</item>
+                  <item>de╌líght</item>
+                  <item>de╌céit</item>
+                  <item>De╌céits</item>
+                  <item>di╌víne</item>
+                  <item>e╌státe</item>
+                  <item>ná╌ture</item>
+                  <item>Ná╌tures</item>
+                  <item>pro╌víde</item>
+                  <item>pre╌páre</item>
+                  <item>re╌céive</item>
+                  <item>Pí╌late</item>
+                  <item>re╌víle</item>
+                  <item>re╌stóre</item>
+                  <item>re╌búke</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 5 &amp; 2.</hi>
+                     </hi>
+                  </head>
+                  <item>Be╌hóld</item>
+                  <item>whó╌so</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 2 &amp; 7.</hi> in pages <hi>2</hi> &amp; <hi>6.</hi>
+                     </hi>
+                  </head>
+                  <item>A╌ble</item>
+                  <item>Brí╌dle</item>
+                  <item>Nó╌ble</item>
+                  <item>Fá╌ble</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 3 &amp; 7.</hi>
+                     </hi>
+                  </head>
+                  <item>Troúb╌le</item>
+                  <item>Troúb╌les</item>
+               </list>
+               <pb n="12" facs="tcp:48232:7"/>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </hi>
+                  </head>
+                  <item>Péo╌ple</item>
+                  <item>Fée╌ble</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> in pages <hi>4</hi> &amp; <hi>3.</hi>
+                     </hi>
+                  </head>
+                  <item>Zéa╌lous</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>
+                           <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </hi>
+                  </head>
+                  <item>Bloúd╌y</item>
+                  <item>Déad╌ly</item>
+                  <item>Feof╌fée</item>
+                  <item>éar╌ly</item>
+                  <item>héav╌y</item>
+                  <item>joúr╌ney</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; 3.</hi> in pages <hi>4</hi> &amp; <hi>3.</hi>
+                     </hi>
+                  </head>
+                  <item>Au╌thour</item>
+                  <item>Be╌cóme</item>
+                  <item>gríev╌ous</item>
+                  <item>néigh╌bour</item>
+                  <item>néigh╌bours</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To</hi>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>Knów╌ledge</item>
+                  <item>Prés╌ence</item>
+                  <item>Them╌sélves</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>R<gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> the <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; 4.</hi> in pages <hi>5</hi> &amp; <hi>4.</hi>
+                     </hi>
+                  </head>
+                  <item>Pléas╌ure</item>
+                  <item>Pléas╌ures</item>
+                  <item>thére╌fore</item>
+                  <item>whére╌fore</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To</hi>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> &amp; <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </head>
+                  <item>Héa╌then</item>
+                  <item>líke╌wise</item>
+                  <item>méa╌sure</item>
+                  <item>Pléa╌sed</item>
+                  <item>pléa╌seth</item>
+                  <item>réa╌son</item>
+                  <item>séa╌son</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rule<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 5 &amp; 6</hi> in pages <hi>4</hi> &amp; <hi>5.</hi>
+                     </hi>
+                  </head>
+                  <item>Néi╌ther</item>
+                  <item>Prái╌sing</item>
+                  <item>píe╌ces</item>
+                  <item>prái╌sed</item>
+                  <item>rái╌sed</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; 9.</hi> in pages <hi>5</hi> &amp; <hi>4.</hi>
+                     </hi>
+                  </head>
+                  <item>Al╌way</item>
+                  <item>ál╌ways</item>
+                  <item>ál╌waies</item>
+                  <item>Fáls╌ly</item>
+                  <item>lów╌ly</item>
+                  <item>thírst╌y</item>
+                  <item>thírd╌ly</item>
+                  <item>wór╌thy</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>To <hi>Rules 3 &amp; 4</hi>
+                     </hi>
+                  </head>
+                  <item>A╌gáin</item>
+                  <item>A╌ny</item>
+                  <item>A╌wáy</item>
+                  <item>a╌fraíd</item>
+                  <item>a╌bóut</item>
+                  <item>a╌lóud</item>
+                  <item>a╌vóid</item>
+                  <item>a╌váil</item>
+                  <item>dú╌ty</item>
+                  <item>de╌stróy</item>
+                  <item>de╌créed</item>
+                  <item>de╌vóut</item>
+                  <item>gló╌ry</item>
+                  <item>hó╌ly</item>
+                  <item>kínd╌ly</item>
+                  <item>o╌béy</item>
+                  <item>pro╌céed</item>
+                  <item>má╌ny</item>
+                  <item>Má╌ry</item>
+                  <item>pro╌nóunce</item>
+                  <item>re╌nóunce</item>
+                  <item>re╌héarse</item>
+                  <item>re╌jóyce</item>
+                  <item>re╌main</item>
+                  <item>re╌proofs</item>
+                  <item>re╌néw</item>
+                  <item>re╌déem</item>
+                  <item>re╌líef</item>
+                  <item>a╌gáinst</item>
+                  <item>trú╌ly</item>
+               </list>
+            </div>
+            <div type="quotation">
+               <head>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>to be read, &amp; learnt by heart.</hi>
+               </head>
+               <q>
+                  <note place="margin">Epist Claud Sarrav. p. <hi>196.</hi>
+                  </note>He is the best man / who hath féw╌est faults; for there is no bód╌y to be found with╌óut some.</q>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Now let the scholar learn to apply each syllable of the following words to its Respective Rule. that is, To tell which it belongs to.</hi>
+               </p>
+               <list>
+                  <head>
+                     <hi>T<gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>yllables, <hi>Or Words of three syllables.</hi>
+                     </hi>
+                  </head>
+                  <item>Al╌míght╌y</item>
+                  <item>Ad╌vo╌cáte</item>
+                  <item>Ag╌o╌ny</item>
+                  <item>as╌sém╌ble</item>
+                  <item>a╌sún╌der</item>
+                  <item>as╌scén╌ded</item>
+                  <pb n="13" facs="tcp:48232:7"/>
+                  <item>Ab╌sólv╌eth</item>
+                  <item>ar╌tíc╌les</item>
+                  <item>af╌fí╌ance</item>
+                  <item>af╌féc╌tion</item>
+                  <item>As╌scén╌tion</item>
+                  <item>áf╌ter╌wards</item>
+                  <item>a╌tóne╌ment</item>
+                  <item>A╌bra╌ham</item>
+                  <item>ap╌pá╌rent</item>
+                  <item>a╌ri╌seth</item>
+                  <item>An╌tí╌christ</item>
+                  <item>ac╌córd╌ing</item>
+                  <item>ap╌póint╌ed</item>
+                  <item>Bóun╌ti╌ful</item>
+                  <item>bap╌tí╌zed</item>
+                  <item>bén╌e╌fits</item>
+                  <item>bóun╌te╌ous</item>
+                  <item>búr╌i╌al</item>
+                  <item>bód╌i╌ly</item>
+                  <item>be╌gót╌ten</item>
+                  <item>Be╌séech╌ing</item>
+                  <item>be╌lóng╌eth</item>
+                  <item>be╌líev╌ers</item>
+                  <item>búr╌i╌ed</item>
+                  <item>be╌gín╌ning</item>
+                  <item>be╌líev╌eth</item>
+                  <item>bánqu╌et╌ing</item>
+                  <item>Chrís╌ti╌an</item>
+                  <item>com╌mánd╌ments</item>
+                  <item>con╌tín╌ue</item>
+                  <item>con╌céiv╌ed</item>
+                  <item>chást╌it╌y</item>
+                  <item>com╌mánd╌ed</item>
+                  <item>Cáth╌o╌lick</item>
+                  <item>Chár╌it╌y</item>
+                  <item>cre╌á╌ted</item>
+                  <item>A╌nóint╌ed</item>
+                  <item>com╌mít╌ted</item>
+                  <item>cóun╌te╌nance</item>
+                  <item>con╌céiv╌ed</item>
+                  <item>Chér╌ub╌in</item>
+                  <item>con╌found╌ed</item>
+                  <item>cóm╌fort╌ed</item>
+                  <item>cóv╌e╌nant</item>
+                  <item>com╌mánd╌ment</item>
+                  <item>cón╌fi╌dence</item>
+                  <item>clém╌en╌cy</item>
+                  <item>cóm╌fort╌er</item>
+                  <item>con╌fórm╌ed</item>
+                  <item>cóm╌pas╌sed</item>
+                  <item>con╌sú╌med</item>
+                  <item>cóv╌er╌ed</item>
+                  <item>com╌pláin╌ing</item>
+                  <item>con╌vért╌ed</item>
+                  <item>Cér╌tain╌ly</item>
+                  <item>con╌sid╌er</item>
+                  <item>cor╌rúp╌tion</item>
+                  <item>com╌mít╌ting</item>
+                  <item>cre╌á╌ting</item>
+                  <item>cóm╌fort╌ing</item>
+                  <item>Dów╌a╌ger</item>
+                  <item>de╌scénd╌ed</item>
+                  <item>díl╌i╌gent</item>
+                  <item>de╌sí╌rest</item>
+                  <item>dis╌sémble</item>
+                  <item>de╌víces</item>
+                  <item>de╌clá╌red</item>
+                  <item>de╌sí╌reth</item>
+                  <item>de╌rí╌sion</item>
+                  <item>de╌fénd╌er</item>
+                  <item>dis╌cí╌ples</item>
+                  <item>dam╌ná╌tion</item>
+                  <item>Ac╌knów╌ledge</item>
+                  <item>de╌céiv╌ed</item>
+                  <item>de╌spi╌sest</item>
+                  <item>de╌liv╌er</item>
+                  <item>dis╌pérs╌ed</item>
+                  <item>de╌sérv╌ed</item>
+                  <item>de╌stroy╌íng</item>
+                  <item>dis╌cré╌tion</item>
+                  <item>de╌strúc╌tion</item>
+                  <item>de╌spi╌sed</item>
+                  <item>de╌fénd╌ed</item>
+                  <item>de╌líght╌est</item>
+                  <item>dés╌ti╌tute</item>
+                  <item>de╌spí╌seth</item>
+                  <item>dés╌o╌late</item>
+                  <item>dis╌pléas╌ure</item>
+                  <item>Ex╌o╌dus</item>
+                  <item>ex╌am╌íne</item>
+                  <item>év╌er╌y</item>
+                  <item>en╌tíre╌ly</item>
+                  <item>én╌e╌mies</item>
+                  <item>éx╌er╌cise</item>
+                  <item>ex╌céed╌ing</item>
+                  <item>en╌dú╌reth</item>
+                  <item>E╌tér╌nal</item>
+                  <item>év╌er╌more</item>
+                  <item>éx╌e╌cute</item>
+                  <item>équ╌it╌y</item>
+                  <item>ex╌ált╌ed</item>
+                  <item>em╌brá╌ceth</item>
+                  <item>Fám╌il╌y</item>
+                  <item>fá╌vour╌ers</item>
+                  <item>fól╌low╌ed</item>
+                  <item>fél╌low╌ship</item>
+                  <item>fóre╌fath╌er</item>
+                  <item>fóre╌fath╌ers</item>
+                  <pb n="14" facs="tcp:48232:8"/>
+                  <item>Fí╌nal╌ly</item>
+                  <item>fáth╌er╌less</item>
+                  <item>for╌gá╌vest</item>
+                  <item>fóol╌ish╌ness</item>
+                  <item>Fáth╌er╌ly</item>
+                  <item>found╌á╌tion</item>
+                  <item>fér╌vent╌ness</item>
+                  <item>for╌gíve╌ness</item>
+                  <item>Gód╌fath╌ers</item>
+                  <item>Gód╌moth╌ers</item>
+                  <item>góv╌ern╌ance</item>
+                  <item>góv╌ern╌our</item>
+                  <item>gló╌ri╌ous</item>
+                  <item>Góv╌ern╌ours</item>
+                  <item>Gáth╌er╌ed</item>
+                  <item>gló╌ri╌fie</item>
+                  <item>Hál╌low╌ed</item>
+                  <item>heárt╌i╌ly</item>
+                  <item>here╌áf╌ter</item>
+                  <item>hér╌it╌age</item>
+                  <item>hó╌li╌ness</item>
+                  <item>hér╌is╌ie</item>
+                  <item>héav╌i╌ness</item>
+                  <item>Héav╌en╌ly</item>
+                  <item>háp╌pi╌ness</item>
+                  <item>hánd╌maid╌en</item>
+                  <item>Is╌rael</item>
+                  <item>ín╌fin╌ite</item>
+                  <item>im╌á╌gine</item>
+                  <item>in╌créas╌ed</item>
+                  <item>in╌hér╌it</item>
+                  <item>ín╌ward╌ly</item>
+                  <item>im╌pú╌teth</item>
+                  <item>im╌pló╌ring</item>
+                  <item>Iéop╌ar╌dy</item>
+                  <item>Ióy╌ful╌ly</item>
+                  <item>Kínd╌ness╌es</item>
+                  <item>Líb╌er╌ty</item>
+                  <item>lá╌bour╌ing</item>
+                  <item>lów╌li╌ness</item>
+                  <item>láud╌a╌ble</item>
+                  <item>Má╌jes╌ties</item>
+                  <item>mér╌ci╌ful</item>
+                  <item>mód╌er╌ate</item>
+                  <item>mán╌i╌fold</item>
+                  <item>Má╌jes╌ty</item>
+                  <item>mág╌ni╌fie</item>
+                  <item>múl╌ti╌tudes</item>
+                  <item>Mín╌is╌ters</item>
+                  <item>mýs╌ter╌y</item>
+                  <item>múl╌ti╌ply</item>
+                  <item>Má╌gis╌trates</item>
+                  <item>már╌vel╌lous</item>
+                  <item>mís╌er╌y</item>
+                  <item>Mí╌sa╌el</item>
+                  <item>múl╌ti╌tude</item>
+                  <item>mán╌i╌fest</item>
+                  <item>míght╌i╌ly</item>
+                  <item>Of╌fénd╌ed</item>
+                  <item>or╌dáin╌ed</item>
+                  <item>ó╌pen╌est</item>
+                  <item>o╌béy╌ed</item>
+                  <item>of╌fénd╌ers</item>
+                  <item>o╌ver╌cóme</item>
+                  <item>ó╌pen╌ed</item>
+                  <item>ór╌der╌ed</item>
+                  <item>of╌fén╌ces</item>
+                  <item>op╌préss╌ed</item>
+                  <item>ób╌stin╌ate</item>
+                  <item>ó╌pen╌ing</item>
+                  <item>O╌pen╌ly</item>
+                  <item>ob╌lá╌tions</item>
+                  <item>ór╌na╌ments</item>
+                  <item>Pró╌ge╌ny</item>
+                  <item>próm╌is╌ed</item>
+                  <item>par╌tá╌kers</item>
+                  <item>púr╌po╌sing</item>
+                  <item>pre╌sérv╌ed</item>
+                  <item>pén╌it╌ent</item>
+                  <item>próm╌is╌es</item>
+                  <item>pár╌don╌eth</item>
+                  <item>pre╌pá╌red</item>
+                  <item>pos╌sés╌sion</item>
+                  <item>péace╌ma╌kers</item>
+                  <item>pér╌se╌cute</item>
+                  <item>pro╌céed╌ing</item>
+                  <item>pést╌il╌ence</item>
+                  <item>prís╌on╌ers</item>
+                  <item>prov╌í╌dence</item>
+                  <item>pe╌tí╌tions</item>
+                  <item>pro╌vó╌ked</item>
+                  <item>Pél╌ic╌an</item>
+                  <item>pún╌ish╌ing</item>
+                  <item>pún╌ish╌ment</item>
+                  <item>Quí╌et╌ness</item>
+                  <item>Re╌déem╌er</item>
+                  <item>re╌déem╌ed</item>
+                  <item>re╌mém╌brance</item>
+                  <item>re╌céiv╌ed</item>
+                  <item>re╌frésh╌ing</item>
+                  <item>re╌pént╌eth</item>
+                  <item>re╌bél╌led</item>
+                  <item>réqu╌is╌ite</item>
+                  <item>re╌mís╌sion</item>
+                  <item>re╌pént╌ance</item>
+                  <item>Rév╌er╌ence</item>
+                  <item>re╌bél╌ling</item>
+                  <pb n="15" facs="tcp:48232:8"/>
+                  <item>Re╌plén╌ish</item>
+                  <item>re╌mém╌bring</item>
+                  <item>re╌líev╌ed</item>
+                  <item>ríght╌e╌ous</item>
+                  <item>re╌déem╌ing</item>
+                  <item>re╌mém╌breth</item>
+                  <item>re╌néw╌ing</item>
+                  <item>Re╌mém╌ber</item>
+                  <item>re╌jói╌ced</item>
+                  <item>re╌gárd╌ed</item>
+                  <item>re╌máin╌eth</item>
+                  <item>rév╌er╌end</item>
+                  <item>re╌démp╌tion</item>
+                  <item>Sá╌vi╌our</item>
+                  <item>slán╌der╌ing</item>
+                  <item>séc╌ond╌ly</item>
+                  <item>só╌ber╌ness</item>
+                  <item>stéd╌fast╌ly</item>
+                  <item>sác╌ri╌fice</item>
+                  <item>stréngth╌en╌ing</item>
+                  <item>súf╌fer╌ing</item>
+                  <item>Sal╌vá╌tion</item>
+                  <item>sus╌táin╌ed</item>
+                  <item>se╌dí╌tion</item>
+                  <item>slán╌der╌ers</item>
+                  <item>Sór╌row╌ful</item>
+                  <item>Sác╌ra╌ment</item>
+                  <item>súbt╌il╌ty</item>
+                  <item>sús╌te╌nance</item>
+                  <item>sé╌cret╌ly</item>
+                  <item>scát╌ter╌ed</item>
+                  <item>Scár╌cit╌y</item>
+                  <item>só╌ber╌ly</item>
+                  <item>sur╌feít╌ing</item>
+                  <item>Sác╌ra╌ments</item>
+                  <item>súc╌cour╌ing</item>
+                  <item>Sóv╌e╌reign</item>
+                  <item>súd╌den╌ly</item>
+                  <item>Sér╌a╌phin</item>
+                  <item>spéed╌i╌ly</item>
+                  <item>súf╌fer╌ed</item>
+                  <item>Twén╌ti╌eth</item>
+                  <item>trés╌pas╌ses</item>
+                  <item>tempt╌á╌tions</item>
+                  <item>témp╌er╌ance</item>
+                  <item>Trín╌it╌y</item>
+                  <item>thanks╌gív╌ing</item>
+                  <item>thanks╌gív╌ings</item>
+                  <item>trans╌fórm╌ed</item>
+                  <item>to╌géth╌er</item>
+                  <item>Tér╌rib╌le</item>
+                  <item>there╌áf╌ter</item>
+                  <item>Tempt╌á╌tion</item>
+                  <item>trans╌grés╌sions</item>
+                  <item>Víc╌to╌ry</item>
+                  <item>vén╌ge╌ance</item>
+                  <item>vér╌i╌ly</item>
+                  <item>vís╌it╌ed</item>
+                  <item>vér╌i╌ty</item>
+                  <item>vo╌cá╌tion</item>
+                  <item>vouch╌sá╌fed</item>
+                  <item>ván╌it╌y</item>
+                  <item>Vp╌ríght╌ly</item>
+                  <item>un╌gód╌ly</item>
+                  <item>un╌wór╌thy</item>
+                  <item>út╌ter╌eth</item>
+                  <item>un╌der╌stánd</item>
+                  <item>út╌ter╌ly</item>
+                  <item>Wór╌ship╌ing</item>
+                  <item>wór╌thi╌ly</item>
+                  <item>wíck╌ed╌ness</item>
+                  <item>wíl╌der╌ness</item>
+                  <item>wróng╌ful╌ly</item>
+                  <item>wíth╌er╌ed</item>
+                  <item>Yés╌ter╌day</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Tetrasyllables, <hi>Or Words of four syllables</hi>
+                     </hi>
+                  </head>
+                  <item>An╌a╌ní╌as</item>
+                  <item>au╌thór╌it╌y</item>
+                  <item>a╌dúl╌ter╌y</item>
+                  <item>ac╌cóm╌pa╌ny</item>
+                  <item>Az╌a╌rí╌as</item>
+                  <item>ab╌so╌lú╌tion</item>
+                  <item>ad╌vers╌a╌ríes</item>
+                  <item>ac╌cór╌ding╌ly</item>
+                  <item>ad╌vérs╌it╌ies</item>
+                  <item>ác╌cept╌a╌ble</item>
+                  <item>ac╌cús╌tom╌ed</item>
+                  <item>ev╌er╌lást╌ing</item>
+                  <item>Ex╌pé╌di╌ent</item>
+                  <item>in╌iqu╌it╌ies</item>
+                  <item>íg╌no╌ran╌ces</item>
+                  <item>Ie╌rú╌sa╌lem</item>
+                  <item>just╌if╌í╌ed</item>
+                  <item>in╌car╌ná╌tion.</item>
+                  <item>In╌hér╌it╌ance</item>
+                  <item>in╌fírm╌it╌ies</item>
+                  <item>in╌hér╌it╌our</item>
+                  <item>il╌lú╌min╌ate</item>
+                  <item>im╌mód╌er╌ate</item>
+                  <item>in╌dig╌ná╌tion</item>
+                  <item>im╌á╌gin╌ed</item>
+                  <item>o╌bé╌di╌ent</item>
+                  <item>un╌féign╌ed╌ly</item>
+                  <pb n="16" facs="tcp:48232:9"/>
+                  <item>V╌ni╌vérs╌al</item>
+                  <item>un╌der╌stánd╌ing</item>
+                  <item>un╌spéak╌a╌ble</item>
+                  <item>un╌search╌a╌ble</item>
+                  <item>Díl╌i╌gent╌ly</item>
+                  <item>de╌lív╌er╌ed</item>
+                  <item>de╌lív╌er╌er</item>
+                  <item>des╌o╌lá╌tion</item>
+                  <item>de╌lív╌er╌ance</item>
+                  <item>dis╌quí╌et╌ness</item>
+                  <item>Gen╌er╌á╌tion</item>
+                  <item>gén╌er╌al╌ly</item>
+                  <item>gen╌er╌á╌tions</item>
+                  <item>gló╌ri╌fi╌ed</item>
+                  <item>hón╌our╌a╌ble</item>
+                  <item>hyp╌óc╌ris╌ie</item>
+                  <item>hu╌míl╌it╌y</item>
+                  <item>Me╌di╌á╌tour</item>
+                  <item>mís╌er╌a╌ble</item>
+                  <item>mér╌ci╌ful╌ly</item>
+                  <item>mág╌ni╌fi╌ed</item>
+                  <item>Na╌tív╌it╌y</item>
+                  <item>No╌bíl╌it╌y</item>
+                  <item>né╌ces╌sa╌ry</item>
+                  <item>ne╌cés╌sit╌y</item>
+                  <item>nég╌li╌gen╌ces</item>
+                  <item>ne╌cés╌sit╌ies</item>
+                  <item>mág╌ni╌fy╌ing</item>
+                  <item>Ma╌té╌ri╌al</item>
+                  <item>mor╌tál╌it╌y</item>
+                  <item>mul╌ti╌ply╌ing</item>
+                  <item>Pít╌i╌ful╌ly</item>
+                  <item>plén╌ti╌ful╌ly</item>
+                  <item>prov╌o╌cá╌tion</item>
+                  <item>pér╌se╌cu╌ted</item>
+                  <item>pér╌se╌cu╌tours</item>
+                  <item>per╌se╌cú╌tions</item>
+                  <item>plén╌te╌ous╌ly</item>
+                  <item>Trib╌u╌lá╌tion</item>
+                  <item>trib╌u╌lá╌tions</item>
+                  <item>when╌so╌év╌er</item>
+                  <item>wíck╌ed╌ness╌es</item>
+                  <item>Bloud╌guílt╌i╌ness.</item>
+                  <item>what╌so╌év╌er.</item>
+                  <item>crú╌ci╌fi╌ed.</item>
+                  <item>burnt╌ó<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>fer╌ings.</item>
+                  <item>cir╌cum╌cí╌sion.</item>
+                  <item>ca╌lám╌it╌y.</item>
+                  <item>Ce╌lés╌ti╌al.</item>
+                  <item>con<g ref="char:EOLunhyphen"/>gre╌gá╌tion.</item>
+                  <item>con╌gre╌gá╌tions.</item>
+                  <item>com╌mú╌ni╌on.</item>
+                  <item>con╌tín<g ref="char:EOLunhyphen"/>u╌al.</item>
+                  <item>cir╌cum╌cí╌sed.</item>
+                  <item>con╌spír╌a╌cy.</item>
+                  <item>cap╌tív╌it╌y.</item>
+                  <item>for╌gív<g ref="char:EOLunhyphen"/>ness╌es.</item>
+                  <item>Fe╌lí╌cit╌y.</item>
+                  <item>for╌ni╌cá╌tion.</item>
+                  <item>fú╌ri╌ous╌ly.</item>
+                  <item>Fa<g ref="char:EOLunhyphen"/>vour╌a╌ble.</item>
+                  <item>res╌ur╌réc╌tion.</item>
+                  <item>rév╌er╌ent╌ly.</item>
+                  <item>Réa╌son╌a╌bl<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </item>
+                  <item>rev╌e╌lá╌tion.</item>
+                  <item>ríght╌e╌ous╌ly.</item>
+                  <item>ríght╌e╌ous╌ness.</item>
+                  <item>sánc╌ti╌fi<g ref="char:EOLunhyphen"/>eth.</item>
+                  <item>sác╌ri╌fi╌ces.</item>
+                  <item>sup╌pli╌cá╌tions.</item>
+                  <item>sim╌plí╌cit╌y.</item>
+                  <item> sánc╌ti<g ref="char:EOLunhyphen"/>fy╌ing.</item>
+               </list>
+               <p>
+                  <list>
+                     <head>Wo<gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of 4, 5 &amp; 6 <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ables.</head>
+                     <item>Séa╌son╌a╌ble.</item>
+                     <item>a╌bom╌i╌ná╌tion.</item>
+                     <item>con╌tín╌u╌al╌ly.</item>
+                     <item>sánc╌ti<g ref="char:EOLunhyphen"/>fi╌ed.</item>
+                     <item>ev╌er╌lást╌ing╌ly.</item>
+                     <item>im╌a╌gin╌á╌tion.</item>
+                     <item>síg╌ni╌fi╌ed.</item>
+                     <item>un<g ref="char:EOLunhyphen"/>ríght╌e╌ous╌ness.</item>
+                     <item>spír╌it╌u╌al.</item>
+                     <item>sát╌is╌fi╌ed.</item>
+                     <item>re╌bél╌li╌on.</item>
+                     <item>in<g ref="char:EOLunhyphen"/>con╌vé╌ni╌en╌ces.</item>
+                     <item>un╌chár╌it╌a╌ble╌ness.</item>
+                  </list>
+               </p>
+               <q>
+                  <p>Gló╌ry be to the Fáth╌er / &amp; to the Son / and to the Hó╌ly Ghost:</p>
+                  <p>As it was in the Be╌gin╌ning / is Now / and Ev╌er shall be / World with╌out end. AMEN.</p>
+               </q>
+            </div>
+            <trailer>
+               <hi>The <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd of the First Part.</hi>
+            </trailer>
+            <trailer>☞ <hi>The Second Part will be Pleasant.</hi>
+            </trailer>
+            <pb facs="tcp:48232:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
